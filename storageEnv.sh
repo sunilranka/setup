@@ -1,5 +1,5 @@
-export AZURE_STORAGE_ACCKOUNT=bbmsftdemostorage
-export AZURE_STORAGE_ACCKESS_KEY=v+b+Y+Zj0WG7z/qkRIXWIshGYJMxFoJoyupQu4smGKUmtd+ltX3PNW7b/uyyepWW4gLGjlF698KthUyPZZmZnInTA==
+export _STORAGE_ACCKOUNT=bbmsftdemostorage
+export _STORAGE_ACCKESS_KEY=v+b+Y+Zj0WG7z/qkRIXWIshGYJMxFoJoyupQu4smGKUmtd+ltX3PNW7b/uyyepWW4gLGjlF698KthUyPZZmZnInTA==
 
-export AZURE_STORAGE_ACCKOUNT=bbhdibbstorage3
-export AZURE_STORAGE_ACCKESS_KEY=/+7+U+Xc6NZa6ZQqbUJP/cEpEXhxd31WOwSlTKtSh5JCiVUv0fowANTkeIZ69rLlugsRs4flkJV+OA7a66nHcsRVg==
+export _STORAGE_ACCKOUNT=bbhdibbstorage3
+export _STORAGE_ACCKESS_KEY=/+7+U+Xc6NZa6ZQqbUJP/cEpEXhxd31WOwSlTKtSh5JCiVUv0fowANTkeIZ69rLlugsRs4flkJV+OA7a66nHcsRVg==
